@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+    <string name="m_t_o">Météo</string>
+    <string name="enter_a_city">Entrez une ville</string>
+    <string name="cityName">CityName</string>
+    <string name="temp_rature">Température : %s °C</string>
+    <string name="pression">Pression : %s HPa</string>
+    <string name="humidit">Humidité : %s %%</string>
+</resources>
