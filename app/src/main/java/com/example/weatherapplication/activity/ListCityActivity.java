@@ -62,7 +62,7 @@ public class ListCityActivity extends AppCompatActivity {
     private void getWeather() {
         this.requestQueue = Volley.newRequestQueue(getApplicationContext());
 
-        String api_key = "d041897bb0e9ecf30de085339892ccc0";
+        String api_key = "YOUR_API_KEY";
         final String API_BASE_URL = "https://api.openweathermap.org/data/2.5/find?q="+ nameCity +"&units=metric&appid="+ api_key;
 
 
