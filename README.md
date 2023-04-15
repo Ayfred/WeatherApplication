@@ -21,8 +21,7 @@ To use this application, follow these steps:
 ## Usage
 1. Upon launching the application, the user is presented with a list of asteroids that are currently close to Earth
 2. The user can click on an asteroid to view more information about it
-3. The user can also search for a specific asteroid by name using the search bar at the top of the screen
-4. If a new asteroid is detected, the user will receive a push notification
+
 
 ## Credits
 This application was developed by Maxime MU.
