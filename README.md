@@ -1,29 +1,22 @@
-# Asteroids Detector App
+# Weather App for Android
 
-This Android application provides real-time information about asteroids that come close to Earth. The data used in this application is obtained through NASA's API and is developed using Android Studio in Java.
+This is an Android application that shows weather information about a city using data from OpenWeather API. Users can enter the name of the city of their choice and get the current weather conditions, as well as a 5-day forecast.
 
 ## Features
-- Provides a list of asteroids that are currently close to Earth
-- Displays the asteroid's name, diameter, velocity, and distance from Earth
-- Provides additional details about each asteroid, including its orbit and the date of its closest approach to Earth
 
-## Technologies Used
-- Android Studio
-- Java
-- NASA's API
+- Displays current temperature, weather conditions, and wind speed in the selected city.
+- User-friendly interface with easy-to-use search bar for entering city names.
+- Uses OpenWeather API to retrieve up-to-date weather data.
 
-## Installation
-To use this application, follow these steps:
-1. Clone this repository
-2. Open the project in Android Studio
-3. Build and run the application on your Android device
+## Getting Started
 
-## Usage
-1. Upon launching the application, the user is presented with a list of asteroids that are currently close to Earth
-2. The user can click on an asteroid to view more information about it
+To use the Weather App, simply download the APK file from the Google Play Store and install it on your Android device. Once installed, open the app and enter the name of the city for which you want to view weather information.
 
+## Requirements
+
+- Android device running Android 4.4 or higher.
+- Internet connection to retrieve weather data from OpenWeather API.
 
 ## Credits
-This application was developed by Maxime MU.
 
-Data for this application is provided by NASA's API.
+This app was developed by Maxime MU using Java and the Android SDK. Weather data is provided by OpenWeather API.
